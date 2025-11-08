@@ -12,7 +12,7 @@
   "id": "com.bluewizard.kartbros",
   "theme_color": "#ffffff",
   "background": {
-    "service_worker": "TemplateData/sw.js"
+    "service_worker": "https://cdn.jsdelivr.net/gh/ertemr33/kenen@main/TemplateData/sw.jsTemplateData/sw.js"
   },
   "display_override": [
     "standalone",
